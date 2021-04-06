@@ -4,17 +4,17 @@ using System.Text;
 
 namespace Minecraft
 {
-    public class CaveTrial:ICreateTrial
+    public class CaveTrial
     { 
     
     }
 
-    public class UnderWaterTrial:ICreateTrial
+    public class UnderWaterTrial
     { 
     
     }
 
-    public class ArenaTrial:ICreateTrial
+    public class ArenaTrial
     { 
     
     }
