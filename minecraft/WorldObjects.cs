@@ -4,27 +4,27 @@ using System.Text;
 
 namespace Minecraft
 {
-    public class Wood:DrawElement
+    public class Wood
     { 
     
     }
 
-    public class WoodBoards:DrawElement
+    public class WoodBoards
     { 
     
     }
 
-    public class Ore:DrawElement
+    public class Ore
     { 
     
     }
 
-    public class Terra:DrawElement
+    public class Terra
     { 
     
     }
 
-    public class Water:DrawElement
+    public class Water
     { 
     
     }
