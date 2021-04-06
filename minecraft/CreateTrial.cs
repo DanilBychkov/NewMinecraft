@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Minecraft
 {
-    public interface CreateTrial
+    public class CreateTrial
     {
     }
 }
