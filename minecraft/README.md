@@ -12,4 +12,7 @@
     Objects(элемент включает в себя следующие классы:Sword,Axe,Bow,Arrow,Shild,Axe) - объекты, которыми может пользоваться игрок.
     Players(элемент включает в себя следующие классы:Player,Archer,Zombi,Spider); 
     WorldObjects(элемент включает в себя следующие классы:Wood,WoodBoards,Ore,Terra,Water); 
-    
+    План 2 неделя:
+    сценарий игры, 
+    механика
+    Привести код в порядок( Solution(проект моделей, с тестами (Discord))
