@@ -1,0 +1,64 @@
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.Resource1.resources
+C:\Users\adasd\Desktop\Новая папка\NewMinecraft-main (4)\NewMinecraft-main\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.Resource1.resources
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.Resource1.resources
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.Resource1.resources
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.Resource1.resources
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.deps.json
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\bin\Debug\netstandard2.0\Minecraft.Models.pdb
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.dll
+C:\Users\User\Desktop\NewMinecraft-main — копия — копия — копия — копия\Minecraft.Models\obj\Debug\netstandard2.0\Minecraft.Models.pdb
