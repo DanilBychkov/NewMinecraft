@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dG6cJg3otvQumTX3z+QtgP5PLRq3RSrnPXFeq8ZbawIk0WMw3m7Z8ehqd9ywAvy/0X7GP+4OnkCledAFs6wXoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adasd\\Desktop\\игра\\NewMinecraft-main (8) — копия — копия — копия\\Minecraft.Models\\Minecraft.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adasd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adasd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
